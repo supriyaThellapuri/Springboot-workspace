@@ -1,0 +1,6 @@
+
+}
+java:S6813"BRemove this field injection and use constructor injection instead.8–´…½×1b 0132ec8cee01c5dd244e1a60fe6448a1h
+˜
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "value".8Ø£“½×1b 4a43df24890e5059096acc1c56b74d81h
+e	java:S106"+Replace this use of System.out by a logger.8ý¯£½×1b bb1c3f2ea781263d3a2bb92b06a2061fh

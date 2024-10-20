@@ -1,0 +1,11 @@
+
+–
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "msg".8ˆå¥¿Ø1b 96fa6de699a72f153b03c034d76a26afh
+e	java:S106"+Replace this use of System.out by a logger.8ˆå¥¿Ø1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8ˆå¥¿Ø1b bb1c3f2ea781263d3a2bb92b06a2061fh
+~
+java:S3518"CMake sure this expression can't be zero before doing this division.8îŠ¨¿Ø1b cfcd208495d565ef66e7dff9f98764dah
+p
+java:S1854"5Remove this useless assignment to local variable "i".8îŠ¨¿Ø1b 6c087e94b4474f036dd283f9b0fb112ch
+a
+java:S1481"&Remove this unused "i" local variable.8îŠ¨¿Ø1b 865c0c0b4ab0e063e5caa3387c1a8741h

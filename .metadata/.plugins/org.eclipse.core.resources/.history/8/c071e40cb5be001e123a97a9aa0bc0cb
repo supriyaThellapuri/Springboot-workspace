@@ -1,0 +1,10 @@
+package com.tsp.repository;
+
+import java.io.Serializable;
+
+import com.tsp.entity.Book;
+
+public class BookRepository extends JpaRepository<Book, Serializable> {
+	
+
+}

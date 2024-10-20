@@ -1,0 +1,12 @@
+
+─	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.8лж≥ ы1b b0d4998a26f5b5742ad38c4af8817e32h
+}
+java:S6813"BRemove this field injection and use constructor injection instead.8лж≥ ы1b 0132ec8cee01c5dd244e1a60fe6448a1h
+}
+java:S6813"BRemove this field injection and use constructor injection instead.8лж≥ ы1b 0132ec8cee01c5dd244e1a60fe6448a1h
+}
+java:S6813"BRemove this field injection and use constructor injection instead.8лж≥ ы1b 0132ec8cee01c5dd244e1a60fe6448a1h
+a
+java:S1452$"&Remove usage of generic wildcard type.8лж≥ ы1b d1457b72c3fb323a2671125aef3eab5dh
+┘
+java:S4488#"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"8лж≥ ы1b da96c53f00f8b26f1cc29c20b05f4ee1h

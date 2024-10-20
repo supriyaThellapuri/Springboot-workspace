@@ -1,0 +1,11 @@
+
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+l
+java:S3878 "8Remove this array creation and simply pass the elements.b 7939867894ac39388abb7a5a50474249h
+`
+java:S3599!",Use another way to initialize this instance.b 5ae96f7fb1532ef8ba4ca2ae843533ech
+ç
+java:S1171!"YMove the contents of this initializer to a standard constructor or to field initializers.b f95b70fdc3088560732a5ac135644506h

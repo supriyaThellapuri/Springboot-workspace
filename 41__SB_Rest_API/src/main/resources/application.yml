@@ -1,0 +1,7 @@
+getMessage:
+  msg: 'wlecome to spring world '
+server:
+  port: 9090
+spring:
+  application:
+    name: sp-rest-api

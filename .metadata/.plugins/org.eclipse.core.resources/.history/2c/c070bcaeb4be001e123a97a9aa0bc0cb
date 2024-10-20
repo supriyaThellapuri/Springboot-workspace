@@ -1,0 +1,5 @@
+package com.tsp.repository;
+
+public class BookRepository {
+
+}

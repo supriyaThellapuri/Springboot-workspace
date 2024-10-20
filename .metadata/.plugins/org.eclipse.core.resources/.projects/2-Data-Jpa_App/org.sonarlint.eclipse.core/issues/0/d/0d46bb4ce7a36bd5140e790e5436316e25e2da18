@@ -1,0 +1,20 @@
+
+{
+java:S1612;"@Replace this lambda with method reference 'System.out::println'.8™œÁşÁ1b b4d414045ddc319a7da99472065d3b35h
+v	java:S1255"<This block of commented-out lines of code should be removed.8ê¦ÌşÁ1b 1634118641295b49947bd8598c1b1929h
+‹	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8™œÁşÁ1b 8f9bfe9d1345237cb3b2b205864da075h
+d
+java:S1481E")Remove this unused "list" local variable.8¾‰¦ÿÁ1b 10ae9fc7d453b0dd525d0edf2ede7961h
+s
+java:S1854E"8Remove this useless assignment to local variable "list".8¾‰¦ÿÁ1b b0a5bfd2ad963a5d188c4983fea89dc3h
+v	java:S125+"<This block of commented-out lines of code should be removed.8™œÁşÁ1b 6baeaa8353a1a83713ae66ea434e851ah
+e	java:S106<"+Replace this use of System.out by a logger.8™œÁşÁ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106H"+Replace this use of System.out by a logger.8¾‰¦ÿÁ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+{
+java:S1612G"@Replace this lambda with method reference 'System.out::println'.8¾‰¦ÿÁ1b b4d414045ddc319a7da99472065d3b35h
+g
+java:S1602;",Remove useless curly braces around statement8™œÁşÁ1b f95b70fdc3088560732a5ac135644506h
+g
+java:S1602G",Remove useless curly braces around statement8¾‰¦ÿÁ1b f95b70fdc3088560732a5ac135644506h
+‹	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8¾‰¦ÿÁ1b 8f9bfe9d1345237cb3b2b205864da075h
+v	java:S125"<This block of commented-out lines of code should be removed.8¯­şÁ1b 887d2ee3b0d64c5c4598e73436dbbcdeh

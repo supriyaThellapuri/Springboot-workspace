@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ServletInitializer.java&apos; to &apos;36_SB_Rest_Swagger_App/src/main/java/com.tsp&apos;&#x0D;&#x0A;- Original project: &apos;26_WebMVC_FormValidations&apos;&#x0D;&#x0A;- Destination element: &apos;36_SB_Rest_Swagger_App/src/main/java/com.tsp&apos;&#x0D;&#x0A;- Original element: &apos;com.tsp.ServletInitializer.java&apos;" description="Copy compilation unit" destination="=36_SB_Rest_Swagger_App/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.tsp" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.tsp{ServletInitializer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1706364365636" units="1" version="1.0"/>
+</session>

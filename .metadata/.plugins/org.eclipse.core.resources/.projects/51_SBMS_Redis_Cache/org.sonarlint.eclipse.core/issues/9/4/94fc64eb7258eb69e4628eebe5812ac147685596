@@ -1,0 +1,16 @@
+
+b
+java:S1905*"'Remove this unnecessary cast to "User".8œæ˜ÃØ1b 17db4f1a156e507e42272721233396f6h
+v	java:S125"<This block of commented-out lines of code should be removed.8ç‘ßÂØ1b b9ae7da898fea40ba1e6f6790630995dh
+˜
+java:S1488*"]Immediately return this expression instead of assigning it to the temporary variable "value".8œæ˜ÃØ1b 34a150e56ac4b7f592b25a3894ddcb34h
+˜
+java:S1488#"]Immediately return this expression instead of assigning it to the temporary variable "value".8“œÑÁØ1b 34a150e56ac4b7f592b25a3894ddcb34h
+’
+java:S4144("WUpdate this method so that its implementation is not identical to "getData" on line 33.8Ì¼°ÃØ1b 66e4f6b2191dcc2b08be79a743292f9dh
+l
+java:S1068"1Remove this unused "redisTemplate" private field.8Ø•¢ÂØ1b 256054d1e1ff39d5de502e0450ba975fh
+ƒ
+java:S1192#"HDefine a constant instead of duplicating this literal "PERSONS" 3 times.8œæ˜ÃØ1b add609baac8da9104027df8f22c0d4c0h
+b
+java:S1905#"'Remove this unnecessary cast to "User".8Ž‡¡ÂØ1b 17db4f1a156e507e42272721233396f6h

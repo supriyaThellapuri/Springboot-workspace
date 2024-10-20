@@ -1,0 +1,21 @@
+
+“
+java:S2139"XEither log this exception and handle it, or rethrow it with some contextual information.8ÌÃÃìØ1b 87831d8b20e9ee815cc1b41055ddc1eah
+a
+java:S1481"&Remove this unused "i" local variable.8¿¢×ëØ1b 865c0c0b4ab0e063e5caa3387c1a8741h
+
+java:S1450"URemove the "logger" field and declare it as a local variable in the relevant methods.8Àé£ìØ1b 6db435f352d7ea4a67807a3feb447bf7h
+~
+java:S3518"CMake sure this expression can't be zero before doing this division.8¿¢×ëØ1b cfcd208495d565ef66e7dff9f98764dah
+p
+java:S1854"5Remove this useless assignment to local variable "i".8¿¢×ëØ1b 6c087e94b4474f036dd283f9b0fb112ch
+|
+java:S3457 "AFormat specifiers should be used instead of string concatenation.8Àé£ìØ1b 8bc5514c5f10a608645c659414343ebfh
+{
+java:S1128"@Remove this unused import 'org.springframework.http.HttpStatus'.8¡íŠÙ1b 112fa9b8212b84b40482a74f5181f850h
+
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.8¡íŠÙ1b aaaba253df39297822d324a05b763895h
+
+java:S1128"URemove this unused import 'org.springframework.web.bind.annotation.ExceptionHandler'.8¡íŠÙ1b 6d014a04aba5fdba46450de3b324a1bfh
+w
+java:S1128"<Remove this unused import 'com.tsp.exception.ExceptionInfo'.8¡íŠÙ1b 09402c05d793bee6185bd2678f182d95h

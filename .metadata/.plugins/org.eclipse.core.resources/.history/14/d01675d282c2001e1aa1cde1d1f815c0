@@ -1,0 +1,5 @@
+package com.tsp.config;
+
+public class SwaggerConfig {
+
+}

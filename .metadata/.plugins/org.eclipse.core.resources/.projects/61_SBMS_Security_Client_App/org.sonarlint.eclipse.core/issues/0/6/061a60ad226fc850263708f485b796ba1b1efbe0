@@ -1,0 +1,8 @@
+
+e	java:S106"+Replace this use of System.out by a logger.8ÊŸ¯ÙÚ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+q
+java:S6437"6Revoke and change this password, as it is compromised.8ö´ÆÙÚ1b 7d62f5142c8fe5e4f217383bcd79f791h
+v	java:S125"<This block of commented-out lines of code should be removed.8¾œÑÙÚ1b 94cab7f5bcb1540dd48f3d0aed7c5719h
+e	java:S106-"+Replace this use of System.out by a logger.8ô‚óÙÚ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+q
+java:S6437("6Revoke and change this password, as it is compromised.8¸ï†ÚÚ1b 7d62f5142c8fe5e4f217383bcd79f791h

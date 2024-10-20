@@ -1,0 +1,12 @@
+server:
+  port: 9090
+  
+spring:
+  application:
+    name: sb-yml-app
+    
+tsp:
+ messages:
+   welcome:welcome to spring boot
+   greet: good morning
+   wish: all the best

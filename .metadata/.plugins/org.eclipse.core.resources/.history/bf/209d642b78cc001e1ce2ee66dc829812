@@ -1,0 +1,5 @@
+package com.tsp.entity;
+
+public class Book {
+
+}

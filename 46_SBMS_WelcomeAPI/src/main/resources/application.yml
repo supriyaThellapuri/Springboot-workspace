@@ -1,0 +1,29 @@
+server:
+  port: 8081
+spring:
+  applicatiom:
+    name: WELCOME_API
+  boot:
+    admin:
+      client:
+        url: http://localhost:1111/
+eureka:
+  client:
+    server-url:
+      defaultZone: http://localhost:8761/eureka/
+
+
+      
+management:
+  endpoints:
+    web:
+     exposure:
+        include: '*'
+  cloud:
+    compatibility-verifier:
+      enabled: false
+        
+
+ 
+        
+   
